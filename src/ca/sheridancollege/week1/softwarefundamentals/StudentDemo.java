@@ -16,7 +16,7 @@ public class StudentDemo {
 
     private String name;
     private int n;
-    private int c;
+    
 
     //constructor
     public StudentDemo(String givenName,int n)
