@@ -32,7 +32,7 @@ public class StudentDemo {
     }
 
     /**
-     * @param name the name to set
+     * @param name the name to setd
      */
     public void setName(String givenName) {
         name = givenName;
